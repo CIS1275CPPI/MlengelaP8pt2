@@ -10,7 +10,7 @@ In addition, the final project should contain the following elements:
    * Pointers and/or references must be part of this final project.
    * This project must be **Multi-File** programming: driver in main(), function bodies in Functions.cpp, and prototypes in Functions.h (or your own filenames)
    * Your program will call a Read function that will read an input file that has **at least 25 data points.**
-   * Your data will be stored in arrays.  There can be multiple parallel one-dimensional arrays, or, if you prefer, you may use a two or three-dimensional array.
+   * Your data will be stored in **arrays**.  There can be multiple parallel one-dimensional arrays, or, if you prefer, you may use a two or three-dimensional array.
    * Your program will then call an Analyze function (or maybe 3 functions) to analyze the data and produce three analytical values, or data facts, for your data.
    * Your program will then call a Write function, which will open a file, output your name, a description of the data, its location (URL),  and the results of your analysis to an external file (you can also write to the screen to check for correctness).  **The function should ask the user for the output file name.** __NOTE:__ Do not build your program so that it has any interaction with the user, other than asking for the output file name.  Text in your results file should be formatted for readability.
    * Include proper use of variables: declaration, initialization, and usage – avoid warnings.
